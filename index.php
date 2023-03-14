@@ -21,7 +21,7 @@
   <!-- FORM -->
 
 <div class="container my-4">
-    <h2 class="text-center">Add a Note</h2>
+    <h2 class="text-center">Add A Note</h2>
     <form action="index.php" method="post">
         <div class="mb-3">
             <label  for="title"  class="form-label">Note Title</label>
